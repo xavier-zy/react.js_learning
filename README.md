@@ -1,3 +1,3 @@
 # react.js_learning
-#for learning react.js
+## for learning react.js
 ***
